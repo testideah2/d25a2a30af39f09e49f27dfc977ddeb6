@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.swimschool.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
-    <name>ТЕСТ. swimschool.moscow</name>
+    <name>swimschool.moscow</name>
 
     <description>
         Наша Миссия
